@@ -1,0 +1,18 @@
+# Bỏ qua các file Markdown
+*Docs.md
+
+# Bỏ qua các thư mục backend, frontend, mobile, desktop
+/backend/
+/frontend/
+/mobile/
+/desktop/
+
+# Ignore các file log, tạm, và cache phổ biến
+*.log
+*.tmp
+node_modules/
+dist/
+.DS_Store
+
+# Ignore file môi trường
+.env
