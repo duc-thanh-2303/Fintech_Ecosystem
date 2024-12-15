@@ -1,9 +1,0 @@
-# Ignore các file log, tạm, và cache phổ biến
-*.log
-*.tmp
-node_modules/
-dist/
-.DS_Store
-
-# Ignore file môi trường
-.env
